@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#3B82F6"               # Soft blue accent (Claude blue)
+backgroundColor = "#F9FAFB"            # Very light gray background
+secondaryBackgroundColor = "#FFFFFF"   # Widget background
+textColor = "#111827"                  # Near-black text
+font = "sans serif"
